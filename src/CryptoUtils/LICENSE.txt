@@ -1,0 +1,4 @@
+This License only applies to CryptoUtils.cpp and CryptoUtils.h
+
+I was not able to find the original copy. But this is what I found based on the comment in CryptoUtils.cpp
+https://opensource.org/license/uoi-ncsa-php

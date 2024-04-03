@@ -1,0 +1,9 @@
+# Project Specific
+*.bc
+*.o
+*.csv
+*.ll
+ObfuscationTool
+originalbinary
+obfuscatedbinary
+*.asm
