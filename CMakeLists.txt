@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.22)
 project(LLVMObfuscationPass)
 
 set(CMAKE_BUILD_TYPE Release)
-set(CMAKE_CXX_STANDARD 22)
+set(CMAKE_CXX_STANDARD 23)
 #if (POLICY CMP0075)
 #    cmake_policy(SET CMP0075 NEW)
 #endif ()
